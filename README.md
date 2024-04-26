@@ -15,6 +15,6 @@ The script is using case switcher which allows us to choose what operation we wa
 Clone the repo to your local computer.
 1. git clone https://github.com/nilufarkhusenova/textprocessing.git and under "files" folder you can find script and file.txt to process text inside file.txt file.
 In order to make script executable first make sure executing permission is set for the file.  
-2. chmod + x text_processing.sh
+2. chmod + x txtprocessingtool.sh
 3. To execxute script: 
 ./txtprocessingtool.sh
